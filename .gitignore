@@ -80,3 +80,9 @@ ipch/
 # temporary image file result
 temp/person_img/*
 !temp/person_img/.gitkeep
+
+# python cache
+__pycache__
+
+# video files
+*.avi
